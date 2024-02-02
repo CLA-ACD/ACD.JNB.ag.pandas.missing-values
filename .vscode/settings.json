@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/dependencies": true,
+        "**/learntools": true,
+        "**/pythonfiles": true,
+        "**/.devcontainer": true,
+        "**/.github": true,
+        "**/.vscode": true,
+        "**/.gitignore": true,
+    }
+}
